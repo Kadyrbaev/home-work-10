@@ -1,0 +1,15 @@
+.form-wrap{
+    background-color: bisque;
+    width: 600px;
+    margin: 10px auto;
+}
+.form-wrap input{
+    width: 450px;
+    padding: 8px;
+    margin-top: 6px;
+}
+.form-wrap button{margin-top: 10px;
+    width: 180px;
+    padding: 6px;
+    cursor: pointer;
+}
